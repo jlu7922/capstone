@@ -1,0 +1,989 @@
+id,name,make,drive_type,transmission,type,doors,seats,year,msrp
+1,Integra,Acura,front wheel drive,automatic,Hatchback,5,5,2023,30800
+2,MDX,Acura,front wheel drive,automatic,Hatchback,5,5,2023,35800
+3,A5,Audi,front wheel drive,automatic,Hatchback,5,5,2023,32800
+4,e-tron,Audi,front wheel drive,manual,Hatchback,5,5,2023,35800
+5,e-tron S,Audi,front wheel drive,automatic,SUV,5,7,2023,49050
+6,Q3,Audi,all wheel drive,automatic,SUV,5,7,2023,63000
+7,Q5,Audi,front wheel drive,automatic,SUV,5,7,2023,53750
+8,Q8,Audi,all wheel drive,automatic,SUV,5,7,2023,72700
+9,3 Series,BMW,all wheel drive,automatic,SUV,5,7,2023,59450
+10,4 Series,BMW,all wheel drive,automatic,SUV,5,7,2023,55950
+11,4 Series Gran Coupe,BMW,all wheel drive,automatic,SUV,5,7,2023,51250
+12,8 Series,BMW,all wheel drive,automatic,SUV,5,7,2023,67350
+13,8 Series Gran Coupe,BMW,all wheel drive,automatic,Coupe,2,4,2023,46200
+14,ALPINA B8 Gran Coupe,BMW,all wheel drive,automatic,Coupe,2,4,2023,51800
+15,iX,BMW,all wheel drive,automatic,Coupe,2,4,2023,55950
+16,X2,BMW,all wheel drive,automatic,Convertible,2,4,2023,52900
+17,Enclave,Buick,all wheel drive,automatic,Convertible,2,4,2023,58500
+18,Encore GX,Buick,all wheel drive,automatic,Convertible,2,4,2023,63500
+19,Envision,Buick,all wheel drive,automatic,Hatchback,5,5,2023,44100
+20,CT4,Cadillac,all wheel drive,automatic,Hatchback,5,5,2023,49700
+21,CT5,Cadillac,all wheel drive,automatic,Hatchback,5,5,2023,55000
+22,Escalade,Cadillac,all wheel drive,automatic,Hatchback,5,5,2023,46200
+23,Escalade ESV,Cadillac,all wheel drive,automatic,Hatchback,5,5,2023,51800
+24,LYRIQ,Cadillac,all wheel drive,automatic,Hatchback,5,5,2023,56250
+25,XT4,Cadillac,all wheel drive,automatic,SUV,5,5,2023,70800
+26,XT5,Cadillac,all wheel drive,automatic,SUV,5,5,2023,77800
+27,XT6,Cadillac,all wheel drive,automatic,SUV,5,5,2023,86400
+28,Bolt EUV,Chevrolet,all wheel drive,automatic,SUV,5,5,2023,88200
+29,Bolt EV,Chevrolet,all wheel drive,automatic,SUV,5,5,2023,95300
+30,Corvette,Chevrolet,all wheel drive,automatic,SUV,5,5,2023,36400
+31,Suburban,Chevrolet,all wheel drive,automatic,SUV,5,5,2023,39700
+32,Tahoe,Chevrolet,all wheel drive,automatic,SUV,5,5,2023,38700
+33,Trailblazer,Chevrolet,all wheel drive,automatic,SUV,5,5,2023,42000
+34,Traverse,Chevrolet,all wheel drive,automatic,SUV,5,5,2023,43500
+35,G70,Genesis,all wheel drive,automatic,SUV,5,5,2023,49000
+36,GV60,Genesis,all wheel drive,automatic,SUV,5,5,2023,54500
+37,GV70,Genesis,all wheel drive,automatic,SUV,5,5,2023,46000
+38,GV80,Genesis,all wheel drive,automatic,SUV,5,5,2023,51500
+39,Acadia,GMC,all wheel drive,automatic,SUV,5,5,2023,57000
+40,HR-V,Honda,all wheel drive,automatic,SUV,5,5,2023,55400
+41,Odyssey,Honda,all wheel drive,automatic,SUV,5,5,2023,60000
+42,Elantra,Hyundai,all wheel drive,automatic,SUV,5,5,2023,65300
+43,Palisade,Hyundai,all wheel drive,automatic,SUV,5,5,2023,71800
+44,Santa Fe,Hyundai,all wheel drive,automatic,SUV,5,5,2023,76900
+45,Q50,INFINITI,all wheel drive,automatic,SUV,5,5,2023,82700
+46,QX55,INFINITI,rear wheel drive,manual,Sedan,4,5,2023,72800
+47,E-PACE,Jaguar,all wheel drive,automatic,Sedan,4,5,2023,80800
+48,F-PACE,Jaguar,rear wheel drive,automatic,Sedan,4,5,2023,76700
+49,F-TYPE,Jaguar,rear wheel drive,manual,Coupe,2,4,2023,74700
+50,I-PACE,Jaguar,all wheel drive,automatic,Coupe,2,4,2023,82700
+51,XF,Jaguar,all wheel drive,automatic,Convertible,2,4,2023,89700
+52,Carnival,Kia,rear wheel drive,automatic,Coupe,2,4,2023,78600
+53,Forte,Kia,all wheel drive,automatic,Sedan,4,5,2023,47900
+54,K5,Kia,all wheel drive,automatic,Convertible,2,4,2023,100000
+55,Seltos,Kia,rear wheel drive,automatic,Coupe,2,4,2023,87500
+56,Soul,Kia,rear wheel drive,automatic,Convertible,2,4,2023,97100
+57,Sportage,Kia,all wheel drive,automatic,Coupe,2,4,2023,90400
+58,Sportage Hybrid,Kia,all wheel drive,automatic,Convertible,2,4,2023,112100
+59,Stinger,Kia,all wheel drive,automatic,Coupe,2,4,2023,102500
+60,Defender,Land Rover,all wheel drive,automatic,Coupe,2,4,2023,130000
+61,Discovery,Land Rover,all wheel drive,automatic,Convertible,2,4,2023,139500
+62,Discovery Sport,Land Rover,all wheel drive,automatic,Sedan,4,5,2023,102500
+63,Range Rover,Land Rover,all wheel drive,automatic,Sedan,4,5,2023,90400
+64,Range Rover Evoque,Land Rover,rear wheel drive,automatic,Sedan,4,5,2023,87500
+65,Range Rover Velar,Land Rover,all wheel drive,automatic,Sedan,4,5,2023,130000
+66,Aviator,Lincoln,all wheel drive,automatic,Sedan,4,5,2023,139900
+67,CX-50,Mazda,all wheel drive,automatic,SUV,5,5,2023,108900
+68,Clubman,MINI,front wheel drive,automatic,SUV,5,5,2023,36600
+69,Convertible,MINI,all wheel drive,automatic,SUV,5,5,2023,38600
+70,Countryman,MINI,front wheel drive,automatic,SUV,5,7,2023,43000
+71,Hardtop 2 Door,MINI,all wheel drive,automatic,SUV,5,7,2023,52000
+72,Hardtop 4 Door,MINI,all wheel drive,automatic,SUV,5,7,2023,45000
+73,Eclipse Cross,Mitsubishi,front wheel drive,automatic,SUV,5,7,2023,50000
+74,LEAF,Nissan,front wheel drive,automatic,SUV,5,7,2023,55300
+75,Z,Nissan,all wheel drive,automatic,SUV,5,7,2023,57300
+77,BRZ,Subaru,all wheel drive,automatic,SUV,5,5,2023,27800
+78,Crosstrek,Subaru,front wheel drive,automatic,SUV,5,5,2023,29000
+79,Impreza,Subaru,front wheel drive,automatic,SUV,5,5,2023,25800
+80,Legacy,Subaru,front wheel drive,automatic,SUV,5,5,2023,24400
+81,Outback,Subaru,all wheel drive,automatic,SUV,5,5,2023,26400
+82,Solterra,Subaru,front wheel drive,automatic,SUV,5,5,2023,31700
+83,bZ4X,Toyota,front wheel drive,automatic,SUV,5,5,2023,35800
+84,Camry,Toyota,front wheel drive,automatic,SUV,5,5,2023,43960
+85,Camry Hybrid,Toyota,all wheel drive,automatic,SUV,5,5,2023,35350
+86,GR86,Toyota,all wheel drive,automatic,SUV,5,5,2023,37600
+87,C40 Recharge Twin Pure Electric,Volvo,all wheel drive,automatic,SUV,5,5,2023,45760
+88,S60,Volvo,rear wheel drive,automatic,Sedan,4,5,2023,40495
+89,S90,Volvo,rear wheel drive,automatic,Sedan,4,5,2023,46595
+90,V60,Volvo,rear wheel drive,automatic,Sedan,4,5,2023,34395
+91,V60 Cross Country,Volvo,rear wheel drive,automatic,Sedan,4,5,2023,39295
+92,V90 Cross Country,Volvo,rear wheel drive,manual,Sedan,4,5,2023,60495
+93,XC40,Volvo,rear wheel drive,automatic,Sedan,4,5,2023,50995
+94,XC40 Recharge Twin Pure Electric,Volvo,rear wheel drive,automatic,Sedan,4,5,2023,43895
+95,XC60,Volvo,rear wheel drive,automatic,Sedan,4,5,2023,38195
+96,XC90,Volvo,rear wheel drive,automatic,Sedan,4,5,2023,42695
+97,ILX,Acura,rear wheel drive,manual,Sedan,4,5,2023,90995
+98,NSX,Acura,rear wheel drive,automatic,SUV,5,7,2023,78295
+99,RDX,Acura,rear wheel drive,automatic,SUV,5,7,2023,90095
+100,TLX,Acura,four wheel drive,automatic,SUV,5,7,2023,107595
+101,Giulia,Alfa Romeo,rear wheel drive,automatic,SUV,5,7,2023,104595
+102,Stelvio,Alfa Romeo,four wheel drive,automatic,SUV,5,7,2023,90095
+103,A3,Audi,four wheel drive,automatic,SUV,5,7,2023,81295
+104,A4,Audi,four wheel drive,automatic,SUV,5,7,2023,93095
+105,A4 allroad,Audi,four wheel drive,automatic,SUV,5,7,2023,107595
+106,A6,Audi,rear wheel drive,automatic,SUV,5,7,2023,104595
+107,A6 allroad,Audi,rear wheel drive,automatic,SUV,5,7,2023,87095
+108,A7,Audi,four wheel drive,automatic,SUV,5,7,2023,148195
+109,A8,Audi,four wheel drive,automatic,SUV,5,7,2023,110595
+110,e-tron GT,Audi,rear wheel drive,automatic,SUV,5,7,2023,90095
+111,e-tron Sportback,Audi,rear wheel drive,automatic,SUV,5,7,2023,107595
+112,e-tron S Sportback,Audi,rear wheel drive,automatic,SUV,5,7,2023,81295
+113,Q4 e-tron,Audi,four wheel drive,automatic,SUV,5,7,2023,110595
+114,Q4 Sportback e-tron,Audi,four wheel drive,automatic,SUV,5,7,2023,96095
+115,Q5 Sportback,Audi,rear wheel drive,automatic,SUV,5,7,2023,107595
+116,Q7,Audi,rear wheel drive,automatic,SUV,5,7,2023,93095
+117,R8,Audi,four wheel drive,automatic,SUV,5,7,2023,84295
+118,RS 3,Audi,four wheel drive,automatic,SUV,5,7,2023,93095
+119,RS 5,Audi,four wheel drive,automatic,SUV,5,7,2023,151195
+120,RS 6,Audi,rear wheel drive,automatic,SUV,5,5,2023,61795
+121,RS 7,Audi,all wheel drive,automatic,SUV,5,5,2023,63795
+122,RS e-tron GT,Audi,front wheel drive,automatic,SUV,5,5,2023,36295
+123,RS Q8,Audi,front wheel drive,automatic,SUV,5,5,2023,40195
+124,S3,Audi,all wheel drive,automatic,SUV,5,5,2023,43295
+125,S4,Audi,front wheel drive,automatic,SUV,5,5,2023,40795
+126,S5,Audi,all wheel drive,automatic,SUV,5,5,2023,42695
+127,S6,Audi,all wheel drive,automatic,SUV,5,5,2023,38795
+128,S7,Audi,front wheel drive,automatic,SUV,5,5,2023,44195
+129,S8,Audi,all wheel drive,automatic,SUV,5,5,2023,46195
+130,SQ5,Audi,front wheel drive,automatic,SUV,5,5,2023,49995
+131,SQ5 Sportback,Audi,all wheel drive,automatic,SUV,5,5,2023,51995
+132,SQ7,Audi,all wheel drive,automatic,SUV,5,5,2023,57095
+133,SQ8,Audi,front wheel drive,automatic,SUV,5,7,2023,48595
+134,TT,Audi,front wheel drive,automatic,SUV,5,7,2023,54795
+135,TT RS,Audi,all wheel drive,automatic,SUV,5,7,2023,50595
+136,TTS,Audi,all wheel drive,automatic,SUV,5,7,2023,60095
+137,Bentayga,Bentley,all wheel drive,automatic,SUV,5,7,2023,56795
+139,Flying Spur,Bentley,front wheel drive,automatic,Hatchback,5,5,2023,31700
+140,2 Series,BMW,front wheel drive,automatic,Hatchback,5,5,2023,25600
+141,2 Series Gran Coupe,BMW,front wheel drive,automatic,Hatchback,5,5,2023,28800
+142,5 Series,BMW,rear wheel drive,automatic,Coupe,2,2,2023,64200
+143,7 Series,BMW,rear wheel drive,automatic,Coupe,2,2,2023,71500
+144,ALPINA B7,BMW,rear wheel drive,automatic,Convertible,2,2,2023,78500
+145,ALPINA XB7,BMW,rear wheel drive,automatic,Convertible,2,2,2023,83150
+146,i4,BMW,rear wheel drive,automatic,Convertible,2,2,2023,71700
+147,X1,BMW,rear wheel drive,automatic,Coupe,2,2,2023,76150
+148,X3,BMW,rear wheel drive,automatic,Coupe,2,2,2023,114200
+149,X4,BMW,rear wheel drive,automatic,Convertible,2,2,2023,121200
+150,X5,BMW,rear wheel drive,automatic,Coupe,2,2,2023,105000
+151,X6,BMW,rear wheel drive,automatic,Convertible,2,2,2023,125850
+152,X7,BMW,rear wheel drive,automatic,Convertible,2,2,2023,112500
+153,Z4,BMW,rear wheel drive,automatic,Coupe,2,2,2023,118850
+154,Encore,Buick,four wheel drive,automatic,SUV,5,8,2023,63700
+155,CT4-V Blackwing,Cadillac,rear wheel drive,automatic,SUV,5,8,2023,60700
+156,CT5-V Blackwing,Cadillac,rear wheel drive,automatic,SUV,5,7,2023,69000
+157,Blazer,Chevrolet,four wheel drive,automatic,SUV,5,7,2023,78800
+158,Camaro,Chevrolet,rear wheel drive,automatic,SUV,5,8,2023,55200
+159,Colorado,Chevrolet,four wheel drive,automatic,SUV,5,8,2023,66200
+160,Equinox,Chevrolet,four wheel drive,automatic,SUV,5,7,2023,72000
+161,Express,Chevrolet,four wheel drive,automatic,SUV,5,8,2023,58200
+162,Express Cargo,Chevrolet,rear wheel drive,automatic,SUV,5,7,2023,75800
+163,Malibu,Chevrolet,rear wheel drive,automatic,SUV,5,8,2023,64200
+164,Silverado 1500 Limited,Chevrolet,four wheel drive,automatic,SUV,5,8,2023,67200
+165,Silverado 1500,Chevrolet,rear wheel drive,automatic,SUV,5,8,2023,52500
+166,Silverado 2500HD,Chevrolet,four wheel drive,automatic,SUV,5,7,2023,69300
+167,Silverado 3500HD,Chevrolet,rear wheel drive,automatic,SUV,5,8,2023,58000
+168,Spark,Chevrolet,four wheel drive,automatic,SUV,5,8,2023,61000
+169,Trax,Chevrolet,four wheel drive,automatic,SUV,5,8,2023,55500
+170,300,Chrysler,rear wheel drive,automatic,SUV,5,7,2023,66300
+171,Pacifica,Chrysler,four wheel drive,automatic,SUV,5,7,2023,76100
+172,Voyager,Chrysler,rear wheel drive,automatic,SUV,5,7,2023,73100
+173,Challenger,Dodge,four wheel drive,automatic,SUV,5,8,2023,63500
+174,Charger,Dodge,rear wheel drive,automatic,SUV,5,8,2023,61500
+175,Durango,Dodge,four wheel drive,automatic,SUV,5,8,2023,64500
+176,500X,FIAT,all wheel drive,automatic,SUV,5,5,2023,26000
+177,Bronco,Ford,front wheel drive,automatic,SUV,5,5,2023,25900
+178,Bronco Sport,Ford,all wheel drive,automatic,SUV,5,5,2023,27400
+179,EcoSport,Ford,front wheel drive,automatic,SUV,5,5,2023,21800
+180,Edge,Ford,all wheel drive,automatic,SUV,5,5,2023,23800
+181,Escape,Ford,all wheel drive,automatic,SUV,5,5,2023,27400
+182,Escape Plug-In Hybrid,Ford,front wheel drive,automatic,SUV,5,5,2023,25900
+183,E-Transit Cargo Van,Ford,front wheel drive,automatic,SUV,5,5,2023,24000
+184,Expedition,Ford,front wheel drive,automatic,SUV,5,7,2023,36745
+185,Explorer,Ford,front wheel drive,automatic,SUV,5,7,2023,46900
+186,F-150,Ford,all wheel drive,automatic,SUV,5,7,2023,53900
+187,F-150 Lightning,Ford,front wheel drive,automatic,SUV,5,7,2023,44745
+188,F-250 Super Duty,Ford,all wheel drive,automatic,SUV,5,7,2023,49500
+189,F-350 Super Duty,Ford,all wheel drive,automatic,SUV,5,7,2023,46745
+190,F-450 Super Duty,Ford,all wheel drive,automatic,SUV,5,7,2023,40545
+191,Maverick,Ford,front wheel drive,automatic,SUV,5,8,2023,34220
+192,Mustang,Ford,front wheel drive,automatic,SUV,5,7,2023,40440
+193,Mustang Mach-E,Ford,all wheel drive,automatic,SUV,5,7,2023,42440
+194,Ranger,Ford,all wheel drive,automatic,SUV,5,8,2023,36220
+195,Shelby GT500,Ford,front wheel drive,automatic,SUV,5,7,2023,51700
+196,Transit Cargo Van,Ford,rear wheel drive,automatic,Sedan,4,5,2023,39150
+197,Transit Connect Cargo Van,Ford,all wheel drive,automatic,Sedan,4,5,2023,41250
+198,Transit Connect Passenger Wagon,Ford,rear wheel drive,automatic,Sedan,4,5,2023,44650
+199,Transit Crew Van,Ford,all wheel drive,automatic,Sedan,4,5,2023,46750
+200,Transit Passenger Van,Ford,all wheel drive,automatic,SUV,5,5,2023,58890
+201,G80,Genesis,all wheel drive,automatic,SUV,5,5,2023,67890
+202,G90,Genesis,all wheel drive,automatic,SUV,5,5,2023,42900
+203,Canyon,GMC,all wheel drive,automatic,SUV,5,5,2023,55000
+204,HUMMER EV,GMC,all wheel drive,automatic,SUV,5,5,2023,55550
+205,Savana,GMC,all wheel drive,automatic,SUV,5,5,2023,62700
+206,Savana Cargo,GMC,all wheel drive,automatic,SUV,5,7,2023,70600
+207,Sierra 1500,GMC,front wheel drive,automatic,SUV,5,6,2023,35300
+208,Sierra 1500 Limited,GMC,all wheel drive,automatic,SUV,5,6,2023,41900
+209,Sierra 2500HD,GMC,all wheel drive,automatic,SUV,5,6,2023,41600
+210,Sierra 3500HD,GMC,all wheel drive,automatic,SUV,5,6,2023,49100
+211,Terrain,GMC,all wheel drive,automatic,SUV,5,6,2023,37600
+212,Yukon,GMC,front wheel drive,automatic,SUV,5,6,2023,39600
+213,Yukon XL,GMC,front wheel drive,automatic,SUV,5,6,2023,47100
+214,Accord,Honda,front wheel drive,automatic,SUV,5,5,2023,23650
+215,Accord Hybrid,Honda,all wheel drive,automatic,SUV,5,5,2023,28950
+216,Civic,Honda,all wheel drive,automatic,SUV,5,5,2023,25150
+217,CR-V,Honda,all wheel drive,automatic,SUV,5,5,2023,27150
+218,CR-V Hybrid,Honda,front wheel drive,automatic,SUV,5,5,2023,25650
+219,Insight,Honda,front wheel drive,automatic,SUV,5,5,2023,27450
+220,Passport,Honda,front wheel drive,automatic,Minivan,5,8,2023,37340
+221,Pilot,Honda,front wheel drive,automatic,Minivan,5,8,2023,49470
+222,Ridgeline,Honda,front wheel drive,automatic,Minivan,5,8,2023,44450
+223,Accent,Hyundai,front wheel drive,automatic,Minivan,5,8,2023,41210
+224,IONIQ 5,Hyundai,front wheel drive,automatic,Minivan,5,8,2023,40410
+225,Ioniq Hybrid,Hyundai,front wheel drive,automatic,Sedan,4,5,2023,20500
+226,Ioniq Plug-In Hybrid,Hyundai,front wheel drive,automatic,Sedan,4,5,2023,21750
+227,Kona,Hyundai,front wheel drive,automatic,Sedan,4,5,2023,27050
+228,Kona Electric,Hyundai,front wheel drive,automatic,Sedan,4,5,2023,26350
+229,NEXO,Hyundai,front wheel drive,automatic,Sedan,4,5,2023,24400
+230,Santa Cruz,Hyundai,front wheel drive,automatic,Sedan,4,5,2023,29000
+231,Santa Fe Hybrid,Hyundai,front wheel drive,automatic,SUV,5,7,2023,40250
+232,Santa Fe Plug-In Hybrid,Hyundai,all wheel drive,automatic,SUV,5,7,2023,42150
+233,Sonata,Hyundai,front wheel drive,automatic,SUV,5,8,2023,34950
+234,Sonata Hybrid,Hyundai,front wheel drive,automatic,SUV,5,7,2023,37950
+235,Tucson,Hyundai,front wheel drive,automatic,SUV,5,7,2023,46500
+236,Tucson Plug-In Hybrid,Hyundai,front wheel drive,automatic,SUV,5,7,2023,48900
+237,Veloster,Hyundai,all wheel drive,automatic,SUV,5,8,2023,36850
+238,Venue,Hyundai,all wheel drive,automatic,SUV,5,7,2023,39850
+239,Q60,INFINITI,all wheel drive,automatic,SUV,5,7,2023,48400
+240,QX50,INFINITI,all wheel drive,automatic,SUV,5,7,2023,50800
+241,QX60,INFINITI,front wheel drive,automatic,SUV,5,5,2023,28200
+242,QX80,INFINITI,front wheel drive,automatic,SUV,5,5,2023,31900
+243,Cherokee,Jeep,front wheel drive,automatic,SUV,5,5,2023,33700
+244,Compass,Jeep,front wheel drive,automatic,SUV,5,5,2023,40050
+245,Gladiator,Jeep,front wheel drive,automatic,SUV,5,5,2023,42050
+246,Grand Cherokee,Jeep,all wheel drive,automatic,SUV,5,5,2023,29900
+247,Grand Cherokee 4xe,Jeep,all wheel drive,automatic,SUV,5,5,2023,33600
+248,Grand Cherokee L,Jeep,all wheel drive,automatic,SUV,5,5,2023,35400
+249,Grand Cherokee WK,Jeep,all wheel drive,automatic,SUV,5,5,2023,41750
+250,Grand Wagoneer,Jeep,all wheel drive,automatic,SUV,5,5,2023,43750
+251,Renegade,Jeep,rear wheel drive,automatic,Sedan,4,5,2023,42650
+252,Wagoneer,Jeep,rear wheel drive,automatic,Sedan,4,5,2023,56500
+253,Wrangler,Jeep,all wheel drive,automatic,Sedan,4,5,2023,50350
+254,Wrangler 4xe,Jeep,rear wheel drive,automatic,Sedan,4,5,2023,48350
+255,GS-6,Karma,all wheel drive,automatic,Sedan,4,5,2023,44650
+256,EV6,Kia,all wheel drive,automatic,Sedan,4,5,2023,58500
+257,Niro,Kia,all wheel drive,automatic,SUV,5,5,2023,54250
+258,Niro EV,Kia,all wheel drive,automatic,SUV,5,5,2023,57800
+259,Niro Plug-In Hybrid,Kia,all wheel drive,automatic,SUV,5,5,2023,49150
+260,Rio,Kia,all wheel drive,automatic,SUV,5,5,2023,48000
+261,Sorento,Kia,all wheel drive,automatic,SUV,5,5,2023,52400
+262,Sorento Hybrid,Kia,all wheel drive,automatic,SUV,5,5,2023,64800
+263,Sorento Plug-In Hybrid,Kia,all wheel drive,automatic,SUV,5,5,2023,89500
+264,Telluride,Kia,all wheel drive,automatic,SUV,5,5,2023,56000
+265,Huracan,Lamborghini,all wheel drive,automatic,Convertible,2,2,2023,111200
+266,Urus,Lamborghini,all wheel drive,automatic,Convertible,2,2,2023,87200
+267,Range Rover Sport,Land Rover,rear wheel drive,automatic,Coupe,2,2,2023,73400
+268,ES,Lexus,all wheel drive,automatic,Coupe,2,2,2023,83900
+269,GX,Lexus,all wheel drive,automatic,Coupe,2,2,2023,108500
+270,IS,Lexus,rear wheel drive,automatic,Convertible,2,2,2023,76700
+271,LC,Lexus,all wheel drive,automatic,Hatchback,5,5,2023,71300
+273,LX,Lexus,rear wheel drive,automatic,Sedan,4,5,2023,47000
+275,RC,Lexus,front wheel drive,automatic,Minivan,5,7,2023,32900
+276,RX,Lexus,front wheel drive,automatic,Minivan,5,8,2023,34900
+277,UX,Lexus,front wheel drive,automatic,Minivan,5,8,2023,38400
+278,Corsair,Lincoln,front wheel drive,automatic,Minivan,5,8,2023,41600
+279,Nautilus,Lincoln,front wheel drive,automatic,Minivan,5,8,2023,46000
+280,Navigator,Lincoln,front wheel drive,automatic,Sedan,4,5,2023,19490
+281,Air,Lucid,front wheel drive,automatic,Sedan,4,5,2023,19990
+282,Ghibli,Maserati,front wheel drive,automatic,Sedan,4,5,2023,21690
+283,Levante,Maserati,front wheel drive,manual,Sedan,4,5,2023,24890
+284,MC20,Maserati,front wheel drive,automatic,Sedan,4,5,2023,24190
+285,Quattroporte,Maserati,front wheel drive,automatic,Sedan,4,5,2023,25090
+286,3,Mazda,front wheel drive,automatic,Sedan,4,5,2023,26490
+287,CX-30,Mazda,front wheel drive,automatic,Sedan,4,5,2023,28990
+288,CX-5,Mazda,front wheel drive,automatic,Sedan,4,5,2023,31490
+289,CX-9,Mazda,all wheel drive,automatic,Sedan,4,5,2023,28190
+290,MX-30,Mazda,front wheel drive,automatic,SUV,5,5,2023,22890
+291,MX-5 Miata,Mazda,all wheel drive,automatic,SUV,5,5,2023,22840
+292,MX-5 Miata RF,Mazda,all wheel drive,automatic,SUV,5,5,2023,24390
+293,720S,McLaren,all wheel drive,automatic,SUV,5,5,2023,27040
+294,720S Spider,McLaren,all wheel drive,automatic,SUV,5,5,2023,26140
+295,765LT Spider,McLaren,all wheel drive,automatic,SUV,5,5,2023,28340
+296,Artura,McLaren,front wheel drive,automatic,Wagon,5,5,2023,19790
+298,A-Class,Mercedes-Benz,front wheel drive,automatic,Wagon,5,5,2023,24090
+299,AMG GT,Mercedes-Benz,front wheel drive,automatic,Wagon,5,5,2023,23390
+300,C-Class,Mercedes-Benz,front wheel drive,automatic,SUV,5,5,2023,25990
+301,CLA-Class,Mercedes-Benz,all wheel drive,automatic,SUV,5,5,2023,34990
+302,CLS-Class,Mercedes-Benz,all wheel drive,automatic,SUV,5,5,2023,33290
+303,E-Class,Mercedes-Benz,all wheel drive,automatic,SUV,5,5,2023,36790
+304,EQS,Mercedes-Benz,all wheel drive,automatic,SUV,5,5,2023,35290
+305,GLA-Class,Mercedes-Benz,all wheel drive,automatic,SUV,5,5,2023,27790
+306,GLB-Class,Mercedes-Benz,front wheel drive,automatic,SUV,5,5,2023,33490
+307,GLC-Class,Mercedes-Benz,all wheel drive,automatic,SUV,5,5,2023,30790
+308,GLC-Class Coupe,Mercedes-Benz,all wheel drive,automatic,SUV,5,5,2023,29790
+309,GLE-Class,Mercedes-Benz,front wheel drive,automatic,SUV,5,5,2023,31490
+310,GLE-Class Coupe,Mercedes-Benz,front wheel drive,automatic,SUV,5,5,2023,27990
+311,GLS-Class,Mercedes-Benz,front wheel drive,6-speed automatic,SUV,5,5,2023,27290
+312,Maybach,Mercedes-Benz,all wheel drive,6-speed automatic,SUV,5,5,2023,30990
+313,Maybach GLS,Mercedes-Benz,all wheel drive,6-speed automatic,SUV,5,5,2023,29090
+314,Metris,Mercedes-Benz,all wheel drive,6-speed automatic,SUV,5,5,2023,36190
+315,S-Class,Mercedes-Benz,rear wheel drive,automatic,Sedan,4,5,2023,36590
+316,SL-Class,Mercedes-Benz,rear wheel drive,automatic,Sedan,4,5,2023,51790
+318,Mirage,Mitsubishi,all wheel drive,automatic,Sedan,4,5,2023,53990
+319,Mirage G4,Mitsubishi,all wheel drive,automatic,SUV,3,5,2023,52300
+320,Outlander,Mitsubishi,all wheel drive,automatic,SUV,3,5,2023,111400
+321,Outlander PHEV,Mitsubishi,all wheel drive,automatic,SUV,3,5,2023,85400
+322,Outlander Sport,Mitsubishi,all wheel drive,automatic,SUV,3,5,2023,104400
+323,Altima,Nissan,all wheel drive,automatic,SUV,5,5,2023,87900
+324,Armada,Nissan,all wheel drive,automatic,SUV,5,5,2023,69900
+325,Frontier,Nissan,all wheel drive,automatic,SUV,3,5,2023,66900
+326,Kicks,Nissan,all wheel drive,automatic,SUV,5,5,2023,114600
+327,Maxima,Nissan,all wheel drive,automatic,SUV,3,5,2023,64000
+328,Murano,Nissan,all wheel drive,automatic,SUV,5,5,2023,107700
+329,Pathfinder,Nissan,all wheel drive,automatic,SUV,5,5,2023,51700
+330,Rogue,Nissan,all wheel drive,automatic,SUV,5,5,2023,66900
+331,Rogue Sport,Nissan,all wheel drive,automatic,SUV,5,5,2023,55300
+332,Sentra,Nissan,four wheel drive,automatic,SUV,5,7,2023,58400
+333,Titan,Nissan,four wheel drive,automatic,SUV,5,7,2023,61600
+334,Titan XD,Nissan,four wheel drive,automatic,SUV,5,7,2023,67400
+335,Versa,Nissan,four wheel drive,automatic,SUV,5,7,2023,73700
+336,718 Boxster,Porsche,four wheel drive,automatic,SUV,5,7,2023,77800
+337,718 Cayman,Porsche,all wheel drive,automatic,SUV,5,5,2023,43300
+338,911,Porsche,all wheel drive,automatic,SUV,5,5,2023,48500
+339,Cayenne,Porsche,all wheel drive,automatic,SUV,5,5,2023,46800
+340,Cayenne Coupe,Porsche,all wheel drive,automatic,SUV,5,5,2023,45100
+341,Macan,Porsche,four wheel drive,automatic,SUV,5,5,2023,101000
+342,Panamera,Porsche,four wheel drive,automatic,SUV,5,7,2023,107000
+343,Taycan,Porsche,four wheel drive,automatic,SUV,5,7,2023,124700
+344,1500,Ram,four wheel drive,automatic,SUV,5,5,2023,118700
+345,2500,Ram,four wheel drive,automatic,SUV,5,5,2023,156450
+346,3500,Ram,four wheel drive,automatic,SUV,5,7,2023,154450
+347,1500 Classic,Ram,four wheel drive,automatic,SUV,5,5,2023,152450
+348,Promaster Cargo Van,Ram,four wheel drive,automatic,SUV,5,5,2023,163950
+349,Promaster City,Ram,four wheel drive,automatic,SUV,5,5,2023,158650
+350,Promaster Window Van,Ram,four wheel drive,automatic,SUV,5,4,2023,186850
+351,R1T,Rivian,four wheel drive,automatic,SUV,5,4,2023,211200
+352,Cullinan,Rolls-Royce,four wheel drive,automatic,SUV,5,7,2023,104900
+353,Ascent,Subaru,all wheel drive,automatic,SUV,5,5,2023,49500
+354,Forester,Subaru,all wheel drive,automatic,SUV,5,5,2023,46600
+355,WRX,Subaru,all wheel drive,automatic,SUV,5,5,2023,45000
+356,Model 3,Tesla,all wheel drive,automatic,SUV,5,5,2023,51100
+357,Model S,Tesla,all wheel drive,automatic,SUV,5,5,2023,55300
+358,Model X,Tesla,all wheel drive,automatic,SUV,5,5,2023,62400
+359,Model Y,Tesla,all wheel drive,automatic,SUV,5,5,2023,60300
+360,4Runner,Toyota,all wheel drive,automatic,SUV,5,5,2023,69200
+361,Avalon,Toyota,all wheel drive,automatic,SUV,5,5,2023,79200
+362,Avalon Hybrid,Toyota,rear wheel drive,automatic,SUV,5,8,2023,53340
+363,C-HR,Toyota,all wheel drive,automatic,SUV,5,7,2023,61035
+364,Corolla,Toyota,all wheel drive,automatic,SUV,5,8,2023,55845
+365,Corolla Cross,Toyota,all wheel drive,automatic,SUV,5,7,2023,69190
+366,Corolla Hatchback,Toyota,all wheel drive,automatic,SUV,5,7,2023,89280
+367,Corolla Hybrid,Toyota,all wheel drive,automatic,SUV,5,7,2023,80725
+368,GR Supra,Toyota,rear wheel drive,automatic,SUV,5,7,2023,58505
+369,Highlander,Toyota,all wheel drive,automatic,SUV,5,5,2023,26800
+370,Highlander Hybrid,Toyota,all wheel drive,automatic,SUV,5,5,2023,28200
+371,Mirai,Toyota,all wheel drive,automatic,SUV,5,5,2023,36400
+372,Prius,Toyota,all wheel drive,automatic,SUV,5,5,2023,39550
+373,Prius Prime,Toyota,all wheel drive,automatic,SUV,5,5,2023,41550
+374,RAV4,Toyota,all wheel drive,automatic,SUV,5,5,2023,29500
+375,RAV4 Hybrid,Toyota,all wheel drive,automatic,SUV,5,5,2023,31940
+376,RAV4 Prime,Toyota,all wheel drive,automatic,SUV,5,5,2023,34400
+377,Sequoia,Toyota,all wheel drive,automatic,SUV,5,5,2023,36400
+378,Sienna,Toyota,all wheel drive,automatic,Hatchback,5,5,2023,42900
+379,Tacoma,Toyota,all wheel drive,automatic,Hatchback,5,5,2023,32900
+380,Tundra,Toyota,all wheel drive,automatic,Hatchback,5,5,2023,36500
+381,Venza,Toyota,front wheel drive,manual,Hatchback,5,5,2023,29900
+382,Arteon,Volkswagen,front wheel drive,automatic,Hatchback,5,5,2023,34500
+383,Atlas,Volkswagen,all wheel drive,automatic,Hatchback,5,5,2023,39500
+384,Atlas Cross Sport,Volkswagen,front wheel drive,manual,Convertible,2,4,2023,31900
+385,Golf GTI,Volkswagen,front wheel drive,manual,Convertible,2,4,2023,28400
+386,Golf R,Volkswagen,front wheel drive,automatic,Convertible,2,4,2023,32400
+387,ID.4,Volkswagen,front wheel drive,automatic,Convertible,2,4,2023,40650
+388,Jetta,Volkswagen,front wheel drive,automatic,Convertible,2,4,2023,38900
+389,Jetta GLI,Volkswagen,front wheel drive,automatic,Convertible,2,4,2023,35900
+390,Passat,Volkswagen,front wheel drive,automatic,Wagon,5,5,2023,35500
+391,Taos,Volkswagen,all wheel drive,automatic,Wagon,5,5,2023,44900
+392,Tiguan,Volkswagen,all wheel drive,automatic,Wagon,5,5,2023,33900
+393,C40 Recharge,Volvo,all wheel drive,automatic,Wagon,5,5,2023,34600
+394,XC40 Recharge,Volvo,all wheel drive,automatic,Wagon,5,5,2023,37500
+395,DB11,Aston Martin,front wheel drive,automatic,Wagon,5,5,2023,32600
+396,DBS Superleggera,Aston Martin,all wheel drive,automatic,Wagon,5,5,2023,31600
+397,DBX,Aston Martin,front wheel drive,automatic,Wagon,5,5,2023,29600
+398,Vantage,Aston Martin,all wheel drive,automatic,Wagon,5,5,2023,41500
+399,i3,BMW,front wheel drive,automatic,Wagon,5,5,2023,31900
+400,Transit Connect,Ford,all wheel drive,automatic,Wagon,5,5,2023,41500
+401,Clarity,Honda,front wheel drive,manual,Hatchback,3,4,2023,23400
+402,Ioniq Electric,Hyundai,front wheel drive,manual,Hatchback,3,4,2023,32900
+403,Revero GT,Karma,front wheel drive,manual,Hatchback,3,4,2023,26900
+404,Sedona,Kia,front wheel drive,automatic,Hatchback,3,4,2023,35900
+405,Aventador,Lamborghini,front wheel drive,automatic,Hatchback,3,4,2023,29900
+406,Evora GT,Lotus,front wheel drive,automatic,Hatchback,3,4,2023,27400
+407,6,Mazda,front wheel drive,automatic,Hatchback,3,4,2023,30900
+408,CX-3,Mazda,front wheel drive,automatic,Hatchback,3,4,2023,33900
+409,765LT,McLaren,front wheel drive,automatic,Hatchback,5,5,2023,28400
+410,Elva,McLaren,front wheel drive,automatic,Hatchback,5,5,2023,31900
+411,G-Class,Mercedes-Benz,front wheel drive,manual,Hatchback,5,5,2023,27900
+412,GT-R,Nissan,front wheel drive,manual,Hatchback,5,5,2023,24400
+413,NV Cargo,Nissan,all wheel drive,automatic,SUV,5,5,2023,25795
+414,NV Passenger,Nissan,all wheel drive,automatic,SUV,5,5,2023,27045
+415,NV200,Nissan,all wheel drive,automatic,SUV,5,5,2023,29495
+416,1,Polestar,all wheel drive,automatic,SUV,5,5,2023,28045
+417,Ghost,Rolls-Royce,front wheel drive,automatic,Hatchback,5,5,2023,27800
+418,Land Cruiser,Toyota,front wheel drive,automatic,Hatchback,5,5,2023,35800
+419,Golf,Volkswagen,rear wheel drive,manual,Coupe,2,2,2023,39990
+420,V90,Volvo,rear wheel drive,automatic,Coupe,2,2,2023,49990
+421,RLX,Acura,rear wheel drive,automatic,Coupe,2,2,2023,39990
+422,4C,Alfa Romeo,rear wheel drive,automatic,Coupe,2,2,2023,52990
+423,Mulsanne,Bentley,rear wheel drive,manual,Coupe,2,2,2023,52990
+424,i8,BMW,rear wheel drive,manual,Coupe,2,2,2023,49990
+425,Regal Sportback,Buick,front wheel drive,automatic,Hatchback,5,5,2023,48400
+426,Regal TourX,Buick,all wheel drive,automatic,Hatchback,5,5,2023,51900
+427,CT6,Cadillac,rear wheel drive,manual,Coupe,2,4,2023,28595
+428,CT6-V,Cadillac,rear wheel drive,automatic,Coupe,2,4,2023,32795
+429,Impala,Chevrolet,rear wheel drive,automatic,Coupe,2,4,2023,30095
+430,Sonic,Chevrolet,rear wheel drive,manual,Coupe,2,4,2023,31095
+431,Grand Caravan,Dodge,all wheel drive,manual,SUV,5,5,2023,23645
+432,Journey,Dodge,all wheel drive,automatic,SUV,5,5,2023,24995
+433,124 Spider,FIAT,all wheel drive,automatic,SUV,5,5,2023,36845
+434,500L,FIAT,all wheel drive,automatic,SUV,5,5,2023,29495
+435,Fusion,Ford,all wheel drive,manual,SUV,5,5,2023,24795
+436,Fusion Energi,Ford,all wheel drive,automatic,SUV,5,5,2023,26745
+437,Fusion Hybrid,Ford,all wheel drive,automatic,SUV,5,5,2023,27995
+438,Shelby GT350,Ford,all wheel drive,automatic,SUV,5,5,2023,26145
+439,Fit,Honda,all wheel drive,manual,Sedan,4,5,2023,19795
+440,Elantra GT,Hyundai,all wheel drive,automatic,Sedan,4,5,2023,23195
+441,XE,Jaguar,all wheel drive,automatic,Sedan,4,5,2023,24595
+442,Cadenza,Kia,all wheel drive,automatic,Hatchback,5,5,2023,21595
+443,K900,Kia,all wheel drive,automatic,Hatchback,5,5,2023,25095
+444,Optima,Kia,all wheel drive,automatic,Hatchback,5,5,2023,27395
+445,Optima Hybrid,Kia,all wheel drive,automatic,Sedan,4,5,2023,21095
+446,Optima Plug-In Hybrid,Kia,all wheel drive,manual,Hatchback,5,5,2023,20295
+447,GS,Lexus,all wheel drive,automatic,Hatchback,5,5,2023,23695
+448,Continental,Lincoln,all wheel drive,manual,Hatchback,5,5,2023,23995
+449,MKZ,Lincoln,all wheel drive,automatic,Sedan,4,5,2023,24395
+450,570S,McLaren,all wheel drive,automatic,Sedan,4,5,2023,33895
+451,570S Spider,McLaren,all wheel drive,automatic,Sedan,4,5,2023,26695
+452,600LT Spider,McLaren,all wheel drive,automatic,Sedan,4,5,2023,37695
+453,SLC-Class,Mercedes-Benz,all wheel drive,automatic,Sedan,4,5,2023,31445
+454,370Z,Nissan,all wheel drive,automatic,SUV,5,5,2023,28395
+455,Dawn,Rolls-Royce,all wheel drive,automatic,SUV,5,5,2023,38445
+456,Phantom,Rolls-Royce,all wheel drive,automatic,SUV,5,5,2023,39695
+457,Wraith,Rolls-Royce,all wheel drive,automatic,SUV,5,5,2023,42295
+458,86,Toyota,all wheel drive,automatic,SUV,5,5,2023,35295
+459,Yaris,Toyota,all wheel drive,automatic,SUV,5,5,2023,30695
+460,Yaris Hatchback,Toyota,all wheel drive,automatic,SUV,5,5,2023,39845
+461,Rapide AMR,Aston Martin,all wheel drive,automatic,SUV,5,5,2023,38595
+462,3 Series Gran Turismo,BMW,all wheel drive,automatic,SUV,5,5,2023,33495
+463,6 Series Gran Coupe,BMW,all wheel drive,automatic,SUV,5,5,2023,44995
+464,6 Series Gran Turismo,BMW,all wheel drive,automatic,SUV,5,5,2023,48495
+465,ALPINA B6 Gran Coupe,BMW,all wheel drive,automatic,SUV,5,5,2023,51995
+466,Cascada,Buick,front wheel drive,automatic,SUV,5,5,2023,42000
+467,LaCrosse,Buick,all wheel drive,automatic,SUV,5,5,2023,48780
+468,ATS Coupe,Cadillac,front wheel drive,automatic,SUV,5,5,2023,46700
+469,ATS-V,Cadillac,all wheel drive,automatic,SUV,5,5,2023,44080
+470,CTS,Cadillac,front wheel drive,automatic,Sedan,4,5,2023,25945
+471,CTS-V,Cadillac,front wheel drive,automatic,Sedan,4,5,2023,28485
+472,XTS,Cadillac,front wheel drive,automatic,Sedan,4,5,2023,30695
+473,Cruze,Chevrolet,front wheel drive,automatic,Sedan,4,5,2023,27485
+474,Silverado 1500 LD,Chevrolet,front wheel drive,automatic,Sedan,4,5,2023,31245
+475,Volt,Chevrolet,front wheel drive,automatic,Sedan,4,5,2023,33010
+476,Pacifica Hybrid,Chrysler,front wheel drive,automatic,Sedan,4,5,2023,36370
+477,488 GTB,Ferrari,front wheel drive,automatic,Sedan,4,5,2023,35820
+478,488 Spider,Ferrari,all wheel drive,automatic,Sedan,4,5,2023,27345
+479,Portofino,Ferrari,all wheel drive,automatic,Sedan,4,5,2023,28885
+480,500,FIAT,all wheel drive,automatic,Sedan,4,5,2023,32095
+481,500e,FIAT,all wheel drive,automatic,Sedan,4,5,2023,32645
+482,Fiesta,Ford,all wheel drive,automatic,Sedan,4,5,2023,29885
+483,Flex,Ford,front wheel drive,automatic,Sedan,4,5,2023,33520
+484,Taurus,Ford,front wheel drive,automatic,Sedan,4,5,2023,30615
+485,Transit Van,Ford,front wheel drive,automatic,Sedan,4,5,2023,28080
+486,Santa Fe XL,Hyundai,front wheel drive,automatic,Sedan,4,5,2023,32970
+487,Sonata Plug-in Hybrid,Hyundai,front wheel drive,automatic,Sedan,4,5,2023,29615
+488,Q70,INFINITI,rear wheel drive,automatic,Coupe,2,4,2023,29400
+489,QX30,INFINITI,rear wheel drive,manual,Coupe,2,4,2023,27900
+490,XJ-Series,Jaguar,rear wheel drive,manual,Coupe,2,4,2023,30500
+491,Soul EV,Kia,rear wheel drive,automatic,Coupe,2,4,2023,32000
+492,MKC,Lincoln,all wheel drive,automatic,Hatchback,5,5,2023,55300
+493,MKT,Lincoln,all wheel drive,automatic,Hatchback,5,5,2023,56850
+494,GranTurismo Convertible,Maserati,all wheel drive,automatic,Hatchback,5,5,2023,60100
+495,570GT,McLaren,all wheel drive,automatic,Sedan,4,5,2023,43600
+496,600LT,McLaren,front wheel drive,automatic,Sedan,4,5,2023,41300
+497,Senna,McLaren,all wheel drive,automatic,Sedan,4,5,2023,68050
+498,Versa Note,Nissan,front wheel drive,automatic,Sedan,4,5,2023,42950
+499,EQ fortwo,smart,front wheel drive,automatic,Sedan,4,5,2023,44000
+500,Prius c,Toyota,front wheel drive,automatic,Sedan,4,5,2023,45650
+501,Beetle,Volkswagen,front wheel drive,automatic,Sedan,4,5,2023,46750
+502,Beetle Convertible,Volkswagen,front wheel drive,automatic,Sedan,4,5,2023,48000
+503,e-Golf,Volkswagen,front wheel drive,automatic,Sedan,4,5,2023,46750
+504,Golf Alltrack,Volkswagen,all wheel drive,automatic,Sedan,4,5,2023,45250
+505,Golf SportWagen,Volkswagen,all wheel drive,automatic,Sedan,4,5,2023,46300
+506,Vanquish S,Aston Martin,all wheel drive,automatic,Sedan,4,5,2023,47950
+507,A3 Sportback e-tron,Audi,all wheel drive,automatic,Sedan,4,5,2023,49050
+508,6 Series,BMW,all wheel drive,automatic,Sedan,4,5,2023,49050
+509,ATS,Cadillac,all wheel drive,automatic,Sedan,4,5,2023,50300
+510,City Express,Chevrolet,all wheel drive,automatic,Sedan,4,5,2023,56700
+511,812 Superfast,Ferrari,all wheel drive,automatic,Sedan,4,5,2023,56700
+512,C-Max Hybrid,Ford,all wheel drive,automatic,Sedan,4,5,2023,55600
+513,Focus,Ford,all wheel drive,automatic,Sedan,4,5,2023,53950
+514,Transit Wagon,Ford,all wheel drive,automatic,Sedan,4,5,2023,52900
+515,Santa Fe Sport,Hyundai,all wheel drive,automatic,Sedan,4,5,2023,57950
+516,Wrangler JK,Jeep,all wheel drive,automatic,Sedan,4,5,2023,51250
+517,MKX,Lincoln,all wheel drive,automatic,Sedan,4,5,2023,57000
+518,GranTurismo,Maserati,all wheel drive,automatic,Sedan,4,5,2023,70500
+519,Sprinter Worker,Mercedes-Benz,all wheel drive,automatic,Sedan,4,5,2023,62550
+520,fortwo,smart,all wheel drive,automatic,Wagon,5,5,2023,70550
+521,Corolla iM,Toyota,all wheel drive,automatic,Wagon,5,5,2023,54100
+522,Yaris iA,Toyota,all wheel drive,automatic,Wagon,5,5,2023,48800
+523,Tiguan Limited,Volkswagen,all wheel drive,automatic,Wagon,5,5,2023,58450
+524,S60 Cross Country,Volvo,all wheel drive,automatic,Wagon,5,5,2023,64050
+525,Rapide S,Aston Martin,front wheel drive,automatic,SUV,5,5,2023,36350
+526,V12 Vantage S,Aston Martin,front wheel drive,automatic,SUV,5,5,2023,40750
+527,Vanquish,Aston Martin,front wheel drive,automatic,SUV,5,5,2023,40750
+528,5 Series Gran Turismo,BMW,front wheel drive,automatic,SUV,5,5,2023,44500
+529,Regal,Buick,front wheel drive,automatic,SUV,5,5,2023,44500
+530,Verano,Buick,all wheel drive,automatic,SUV,5,5,2023,38350
+531,SS,Chevrolet,all wheel drive,automatic,SUV,5,5,2023,42750
+533,Viper,Dodge,all wheel drive,automatic,SUV,5,5,2023,42750
+534,GTC4Lusso,Ferrari,all wheel drive,automatic,SUV,5,5,2023,46500
+535,C-Max Energi,Ford,all wheel drive,automatic,SUV,5,5,2023,59500
+536,GT,Ford,all wheel drive,automatic,SUV,5,5,2023,53550
+537,Azera,Hyundai,all wheel drive,automatic,SUV,5,5,2023,56250
+538,QX70,INFINITI,front wheel drive,automatic,SUV,5,5,2023,43450
+539,Patriot,Jeep,front wheel drive,automatic,SUV,5,5,2023,47700
+540,CT,Lexus,front wheel drive,automatic,SUV,5,5,2023,47700
+541,Evora 400,Lotus,front wheel drive,automatic,SUV,5,5,2023,53500
+542,B-Class Electric Drive,Mercedes-Benz,front wheel drive,automatic,SUV,5,5,2023,53500
+543,i-MiEV,Mitsubishi,all wheel drive,automatic,SUV,5,5,2023,45750
+544,Lancer,Mitsubishi,all wheel drive,automatic,SUV,5,5,2023,50000
+545,Juke,Nissan,all wheel drive,automatic,SUV,5,5,2023,50000
+546,Phantom Drophead Coupe,Rolls-Royce,all wheel drive,automatic,SUV,5,5,2023,55800
+547,Prius v,Toyota,all wheel drive,automatic,SUV,5,5,2023,55800
+548,CC,Volkswagen,all wheel drive,automatic,SUV,5,5,2023,59050
+549,Touareg,Volkswagen,all wheel drive,automatic,SUV,5,5,2023,59050
+550,DB9 GT,Aston Martin,all wheel drive,automatic,SUV,5,5,2023,57200
+551,V8 Vantage,Aston Martin,all wheel drive,automatic,SUV,5,5,2023,61450
+552,allroad,Audi,all wheel drive,automatic,SUV,5,5,2023,61450
+553,Continental GT,Bentley,all wheel drive,automatic,SUV,5,5,2023,66950
+554,ActiveHybrid 5,BMW,all wheel drive,automatic,SUV,5,5,2023,66950
+555,ELR,Cadillac,all wheel drive,automatic,SUV,5,5,2023,74150
+556,SRX,Cadillac,all wheel drive,automatic,SUV,5,7,2023,56000
+557,Cruze Limited,Chevrolet,all wheel drive,automatic,SUV,5,7,2023,59900
+558,Impala Limited,Chevrolet,all wheel drive,automatic,SUV,5,6,2023,63900
+559,Malibu Limited,Chevrolet,all wheel drive,automatic,SUV,5,7,2023,60900
+560,Spark EV,Chevrolet,all wheel drive,automatic,SUV,5,7,2023,63400
+561,Town and Country,Chrysler,all wheel drive,automatic,SUV,5,7,2023,69200
+562,Dart,Dodge,all wheel drive,automatic,SUV,5,6,2023,69700
+563,California T,Ferrari,all wheel drive,automatic,SUV,5,7,2023,73600
+564,F12 Berlinetta,Ferrari,all wheel drive,automatic,SUV,5,6,2023,74100
+565,CR-Z,Honda,all wheel drive,automatic,SUV,5,7,2023,79400
+566,Equus,Hyundai,all wheel drive,automatic,SUV,5,6,2023,79900
+567,Genesis,Hyundai,all wheel drive,automatic,SUV,5,7,2023,71900
+568,Genesis Coupe,Hyundai,all wheel drive,automatic,SUV,5,7,2023,73600
+569,LR4,Land Rover,all wheel drive,automatic,SUV,5,7,2023,79400
+570,MKS,Lincoln,front wheel drive,automatic,Sedan,4,5,2022,29300
+571,675LT Coupe,McLaren,front wheel drive,automatic,Sedan,4,5,2022,31300
+572,675LT Spider,McLaren,front wheel drive,automatic,Sedan,4,5,2022,27300
+573,GL-Class,Mercedes-Benz,front wheel drive,automatic,Sedan,4,5,2022,33200
+574,SLK-Class,Mercedes-Benz,front wheel drive,automatic,SUV,5,7,2022,48000
+575,Cooper,MINI,all wheel drive,automatic,SUV,5,7,2022,58400
+576,Cooper Clubman,MINI,all wheel drive,automatic,SUV,5,7,2022,54900
+577,Cooper Countryman,MINI,all wheel drive,automatic,SUV,5,7,2022,50200
+578,Cooper Paceman,MINI,all wheel drive,automatic,SUV,5,7,2022,61950
+579,Quest,Nissan,front wheel drive,automatic,SUV,5,7,2022,52700
+580,Boxster,Porsche,all wheel drive,automatic,SUV,5,7,2022,66700
+581,Cayman,Porsche,all wheel drive,automatic,SUV,5,7,2022,72050
+582,Phantom Coupe,Rolls-Royce,all wheel drive,9-speed automated manual,Coupe,2,2,2022,169500
+583,FR-S,Scion,front wheel drive,automatic,SUV,5,5,2022,40600
+584,iA,Scion,all wheel drive,automatic,SUV,5,5,2022,53800
+585,iM,Scion,front wheel drive,automatic,SUV,5,5,2022,43250
+587,Eos,Volkswagen,all wheel drive,automatic,SUV,5,5,2022,52600
+588,S80,Volvo,all wheel drive,automatic,SUV,5,5,2022,50600
+589,XC70,Volvo,all wheel drive,automatic,SUV,5,5,2022,42800
+590,DB9,Aston Martin,front wheel drive,automatic,SUV,5,5,2022,46250
+591,Continental GT3-R,Bentley,all wheel drive,automatic,SUV,5,5,2022,48450
+592,ActiveHybrid 7,BMW,front wheel drive,automatic,Sedan,4,5,2022,38900
+593,CTS-V Coupe,Cadillac,all wheel drive,automatic,Sedan,4,5,2022,49900
+594,Captiva Sport,Chevrolet,all wheel drive,automatic,Sedan,4,5,2022,41100
+595,458 Italia,Ferrari,front wheel drive,automatic,Sedan,4,5,2022,42900
+596,FF,Ferrari,all wheel drive,automatic,Sedan,4,5,2022,53700
+597,Crosstour,Honda,all wheel drive,automatic,Sedan,4,5,2022,54500
+598,Q40,INFINITI,all wheel drive,automatic,Sedan,4,5,2022,47850
+599,Q60 Convertible,INFINITI,front wheel drive,automatic,Sedan,4,5,2022,45650
+600,Q60 Coupe,INFINITI,all wheel drive,automatic,Sedan,4,5,2022,45100
+601,XK-Series,Jaguar,rear wheel drive,automatic,Sedan,4,5,2022,43350
+602,LR2,Land Rover,all wheel drive,automatic,Sedan,4,5,2022,45350
+603,5,Mazda,rear wheel drive,automatic,Sedan,4,5,2022,78830
+604,650S Coupe,McLaren,rear wheel drive,automatic,Sedan,4,5,2022,45390
+605,650S Spider,McLaren,rear wheel drive,automatic,Sedan,4,5,2022,48990
+606,GLK-Class,Mercedes-Benz,all wheel drive,automatic,Sedan,4,5,2022,47390
+607,M-Class,Mercedes-Benz,all wheel drive,automatic,Sedan,4,5,2022,50990
+608,SLS AMG GT Final Edition,Mercedes-Benz,rear wheel drive,automatic,SUV,5,5,2022,45550
+609,Cooper Coupe,MINI,all wheel drive,automatic,SUV,5,5,2022,47550
+610,Cooper Roadster,MINI,all wheel drive,automatic,SUV,5,5,2022,50500
+611,Lancer Evolution,Mitsubishi,all wheel drive,automatic,SUV,5,5,2022,52300
+612,Rogue Select,Nissan,all wheel drive,automatic,SUV,5,5,2022,84650
+613,Xterra,Nissan,all wheel drive,automatic,Sedan,4,5,2022,36800
+614,918 Spyder,Porsche,front wheel drive,automatic,Sedan,4,5,2022,42100
+615,C/V,Ram,all wheel drive,automatic,Sedan,4,5,2022,44100
+616,iQ,Scion,front wheel drive,automatic,Sedan,4,5,2022,34800
+617,xB,Scion,front wheel drive,automatic,Sedan,4,5,2022,38100
+618,XV Crosstrek,Subaru,all wheel drive,automatic,Sedan,4,5,2022,40100
+619,Prius Plug-in,Toyota,all wheel drive,automatic,Sedan,4,5,2022,39900
+620,ILX Hybrid,Acura,all wheel drive,automatic,Sedan,4,5,2022,50200
+621,TL,Acura,all wheel drive,automatic,Sedan,4,5,2022,44600
+622,TSX,Acura,all wheel drive,automatic,Sedan,4,5,2022,50900
+623,TSX Sport Wagon,Acura,all wheel drive,automatic,Sedan,4,5,2022,46200
+624,Continental GT Speed,Bentley,all wheel drive,automatic,Sedan,4,5,2022,42000
+625,Continental GT Speed Convertible,Bentley,all wheel drive,automatic,Wagon,5,5,2022,55400
+626,Continental GTC,Bentley,all wheel drive,automatic,Wagon,5,5,2022,49700
+627,CTS Coupe,Cadillac,all wheel drive,automatic,Wagon,5,5,2022,45500
+628,CTS Wagon,Cadillac,all wheel drive,automatic,Coupe,2,4,2022,46000
+629,CTS-V Wagon,Cadillac,all wheel drive,automatic,Hatchback,5,5,2022,46000
+630,Avenger,Dodge,all wheel drive,automatic,Hatchback,5,5,2022,50900
+631,SRT Viper,Dodge,all wheel drive,automatic,Hatchback,5,5,2022,55750
+632,California,Ferrari,all wheel drive,automatic,Hatchback,5,5,2022,43900
+633,E-Series Van,Ford,all wheel drive,automatic,Convertible,2,4,2022,52200
+634,E-Series Wagon,Ford,all wheel drive,automatic,Hatchback,5,5,2022,54500
+635,Accord Plug-In Hybrid,Honda,all wheel drive,automatic,Hatchback,5,5,2022,48800
+636,Fit EV,Honda,all wheel drive,automatic,Convertible,2,4,2022,62950
+637,Elantra Coupe,Hyundai,all wheel drive,automatic,Coupe,2,4,2022,50900
+638,Gallardo,Lamborghini,all wheel drive,automatic,Coupe,2,4,2022,55450
+639,Evora,Lotus,all wheel drive,automatic,Convertible,2,4,2022,57100
+640,2,Mazda,all wheel drive,automatic,Sedan,4,5,2022,55900
+641,CL-Class,Mercedes-Benz,all wheel drive,automatic,Sedan,4,5,2022,69500
+642,SLS AMG GT,Mercedes-Benz,all wheel drive,automatic,Sedan,4,5,2022,63700
+643,Lancer Sportback,Mitsubishi,all wheel drive,automatic,Sedan,4,5,2022,59800
+644,Cube,Nissan,all wheel drive,automatic,Sedan,4,5,2022,59800
+645,Murano CrossCabriolet,Nissan,all wheel drive,automatic,Wagon,5,5,2022,66900
+646,xD,Scion,all wheel drive,automatic,Wagon,5,5,2022,72400
+647,Impreza WRX,Subaru,all wheel drive,automatic,Sedan,4,5,2022,69200
+648,Tribeca,Subaru,all wheel drive,automatic,Sedan,4,5,2022,74350
+649,FJ Cruiser,Toyota,all wheel drive,automatic,Sedan,4,5,2022,75900
+650,RAV4 EV,Toyota,all wheel drive,automatic,Sedan,4,5,2022,78350
+651,Jetta Hybrid,Volkswagen,all wheel drive,automatic,Sedan,4,5,2022,81250
+652,Jetta SportWagen,Volkswagen,all wheel drive,automatic,Sedan,4,5,2022,86500
+653,ZDX,Acura,all wheel drive,automatic,SUV,5,5,2022,83400
+654,Continental Flying Spur,Bentley,all wheel drive,automatic,SUV,5,5,2022,74800
+655,Continental Flying Spur Speed,Bentley,all wheel drive,automatic,SUV,5,5,2022,65900
+656,Supersports Convertible ISR,Bentley,all wheel drive,automatic,Sedan,4,5,2022,102400
+657,1 Series,BMW,all wheel drive,automatic,Sedan,4,5,2022,109600
+658,Escalade EXT,Cadillac,all wheel drive,automatic,SUV,5,5,2022,69100
+659,Escalade Hybrid,Cadillac,all wheel drive,automatic,SUV,5,5,2022,78000
+660,Black Diamond Avalanche,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,82300
+661,Silverado 1500 Hybrid,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,89800
+662,Tahoe Hybrid,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,84800
+663,Sierra 1500 Hybrid,GMC,all wheel drive,automatic,SUV,5,5,2022,92400
+664,Yukon Hybrid,GMC,all wheel drive,automatic,SUV,5,5,2022,87400
+665,EX,INFINITI,all wheel drive,automatic,SUV,5,5,2022,36400
+666,FX,INFINITI,all wheel drive,automatic,SUV,5,5,2022,39700
+667,G Convertible,INFINITI,all wheel drive,automatic,SUV,5,5,2022,42000
+668,G Coupe,INFINITI,all wheel drive,automatic,SUV,5,5,2022,38700
+669,G Sedan,INFINITI,rear wheel drive,automatic,SUV,5,5,2022,43900
+670,JX,INFINITI,rear wheel drive,automatic,SUV,5,5,2022,48000
+671,M,INFINITI,all wheel drive,automatic,SUV,5,5,2022,54000
+672,QX,INFINITI,all wheel drive,automatic,SUV,5,5,2022,57500
+673,Mazdaspeed 3,Mazda,all wheel drive,automatic,SUV,5,5,2022,49900
+674,MP4-12C,McLaren,all wheel drive,automatic,SUV,5,5,2022,52700
+675,MP4-12C Spider,McLaren,all wheel drive,automatic,SUV,5,5,2022,60300
+676,Grand Vitara,Suzuki,all wheel drive,automatic,SUV,5,5,2022,56800
+677,Kizashi,Suzuki,all wheel drive,automatic,SUV,5,5,2022,45800
+678,SX4,Suzuki,all wheel drive,automatic,SUV,5,5,2022,64800
+679,Matrix,Toyota,all wheel drive,automatic,SUV,5,5,2022,56500
+680,C30,Volvo,all wheel drive,automatic,SUV,5,5,2022,50800
+681,C70,Volvo,all wheel drive,automatic,SUV,5,5,2022,55400
+682,RL,Acura,all wheel drive,automatic,SUV,5,5,2022,59500
+683,DBS,Aston Martin,all wheel drive,automatic,SUV,5,5,2022,54000
+684,Rapide,Aston Martin,all wheel drive,automatic,SUV,5,5,2022,43300
+685,V12 Vantage,Aston Martin,all wheel drive,automatic,SUV,5,5,2022,48300
+686,Virage,Aston Martin,all wheel drive,automatic,SUV,5,5,2022,58800
+687,Continental Supersports,Bentley,all wheel drive,automatic,SUV,5,5,2022,50100
+688,Continental Supersports Convertible,Bentley,all wheel drive,automatic,SUV,5,5,2022,53500
+689,Avalanche,Chevrolet,all wheel drive,automatic,SUV,5,7,2022,57500
+690,Caliber,Dodge,all wheel drive,automatic,SUV,5,7,2022,62500
+691,Karma,Fisker,all wheel drive,automatic,SUV,5,7,2022,73300
+692,Elantra Touring,Hyundai,all wheel drive,automatic,SUV,5,7,2022,60400
+693,Veracruz,Hyundai,all wheel drive,automatic,SUV,5,7,2022,66100
+694,Liberty,Jeep,all wheel drive,automatic,SUV,5,5,2022,70800
+695,HS,Lexus,all wheel drive,automatic,SUV,5,5,2022,74700
+696,LFA,Lexus,all wheel drive,automatic,SUV,5,5,2022,80900
+697,57,Maybach,all wheel drive,automatic,Coupe,2,2,2022,199800
+698,62,Maybach,rear wheel drive,automatic,Convertible,2,2,2022,160900
+699,Landaulet,Maybach,all wheel drive,automatic,Convertible,2,2,2022,213500
+700,CX-7,Mazda,rear wheel drive,automatic,Coupe,2,2,2022,148700
+701,R-Class,Mercedes-Benz,all wheel drive,automatic,Sedan,4,5,2022,58900
+702,SLS AMG,Mercedes-Benz,all wheel drive,automatic,Coupe,2,4,2022,75900
+703,Eclipse,Mitsubishi,all wheel drive,automatic,Hatchback,5,5,2022,76200
+704,Eclipse Spyder,Mitsubishi,all wheel drive,automatic,Wagon,5,5,2022,116500
+705,Galant,Mitsubishi,all wheel drive,automatic,Sedan,4,5,2022,118500
+706,9-3 Griffin,Saab,all wheel drive,automatic,Sedan,4,5,2022,142400
+707,Equator,Suzuki,all wheel drive,automatic,SUV,5,5,2022,119900
+708,Routan,Volkswagen,all wheel drive,automatic,Sedan,4,5,2022,45800
+709,Continental GTC Speed,Bentley,all wheel drive,automatic,Sedan,4,5,2022,48600
+710,ActiveHybrid X6,BMW,all wheel drive,automatic,Sedan,4,5,2022,52400
+711,Lucerne,Buick,all wheel drive,automatic,Sedan,4,5,2022,60200
+712,DTS,Cadillac,all wheel drive,automatic,Sedan,4,5,2022,51900
+713,STS,Cadillac,all wheel drive,automatic,Sedan,4,5,2022,55500
+714,Aveo,Chevrolet,all wheel drive,automatic,Coupe,2,4,2022,55300
+715,HHR,Chevrolet,all wheel drive,automatic,Hatchback,5,5,2022,55300
+716,Nitro,Dodge,all wheel drive,automatic,Coupe,2,4,2022,63400
+717,599,Ferrari,all wheel drive,automatic,Hatchback,5,5,2022,63700
+718,612 Scaglietti,Ferrari,all wheel drive,automatic,Coupe,2,4,2022,58900
+719,Crown Victoria,Ford,all wheel drive,automatic,Convertible,2,4,2022,71500
+720,Escape Hybrid,Ford,all wheel drive,automatic,Convertible,2,4,2022,67000
+721,Accord Crosstour,Honda,all wheel drive,automatic,Hatchback,5,5,2022,58900
+722,Element,Honda,all wheel drive,automatic,Convertible,2,4,2022,63400
+723,Town Car,Lincoln,all wheel drive,automatic,Sedan,4,5,2022,74800
+724,Elise,Lotus,all wheel drive,automatic,Sedan,4,5,2022,81500
+725,Exige,Lotus,all wheel drive,automatic,Sedan,4,5,2022,90500
+726,RX-8,Mazda,all wheel drive,automatic,Sedan,4,5,2022,84600
+727,Tribute,Mazda,all wheel drive,automatic,Sedan,4,5,2022,116900
+728,Grand Marquis,Mercury,all wheel drive,automatic,SUV,5,5,2022,60000
+729,Mariner,Mercury,all wheel drive,automatic,SUV,5,5,2022,55800
+730,Mariner Hybrid,Mercury,all wheel drive,automatic,SUV,5,5,2022,65200
+731,Milan,Mercury,all wheel drive,automatic,SUV,5,5,2022,62400
+732,Milan Hybrid,Mercury,all wheel drive,automatic,SUV,5,5,2022,67600
+733,Endeavor,Mitsubishi,all wheel drive,automatic,SUV,5,5,2022,59200
+734,Altima Hybrid,Nissan,all wheel drive,automatic,SUV,5,7,2022,88500
+736,9-3,Saab,all wheel drive,automatic,SUV,5,5,2022,99700
+737,9-4X,Saab,all wheel drive,automatic,SUV,5,5,2022,93500
+738,9-5,Saab,all wheel drive,automatic,Coupe,2,4,2022,50500
+739,Roadster,Tesla,all wheel drive,automatic,Convertible,2,2,2022,54600
+740,S40,Volvo,all wheel drive,automatic,Coupe,2,4,2022,73200
+741,V50,Volvo,all wheel drive,automatic,Coupe,2,4,2022,60200
+742,Azure,Bentley,all wheel drive,automatic,SUV,5,5,2022,259400
+743,Brooklands,Bentley,all wheel drive,automatic,SUV,5,5,2022,226600
+744,Cobalt,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,193400
+745,Malibu Hybrid,Chevrolet,all wheel drive,automatic,Coupe,2,4,2022,231000
+746,PT Cruiser,Chrysler,all wheel drive,automatic,Coupe,2,4,2022,300600
+747,Sebring,Chrysler,all wheel drive,automatic,Convertible,2,4,2022,254100
+748,Dakota,Dodge,all wheel drive,automatic,Coupe,2,4,2022,282800
+749,Ram Pickup 1500,Dodge,all wheel drive,automatic,Convertible,2,4,2022,319800
+750,Ram Pickup 2500,Dodge,all wheel drive,automatic,Convertible,2,4,2022,311100
+751,Ram Pickup 3500,Dodge,all wheel drive,automatic,Sedan,4,5,2022,204500
+752,Explorer Sport Trac,Ford,all wheel drive,automatic,Sedan,4,4,2022,291600
+753,H3,HUMMER,all wheel drive,automatic,Sedan,4,4,2022,293300
+754,H3T,HUMMER,all wheel drive,automatic,Sedan,4,4,2022,309000
+755,Commander,Jeep,all wheel drive,automatic,Sedan,4,5,2022,231200
+756,Murcielago,Lamborghini,all wheel drive,automatic,Sedan,4,5,2022,210600
+757,SC,Lexus,rear wheel drive,automatic,Coupe,2,4,2022,36350
+758,Mountaineer,Mercury,all wheel drive,automatic,Coupe,2,4,2022,48550
+759,G6,Pontiac,all wheel drive,automatic,Sedan,4,5,2022,37700
+760,Vibe,Pontiac,front wheel drive,automatic,Sedan,4,5,2022,35700
+761,New Beetle,Volkswagen,all wheel drive,automatic,Sedan,4,5,2022,45500
+762,V70,Volvo,rear wheel drive,automatic,Sedan,4,5,2022,41450
+763,Arnage,Bentley,all wheel drive,automatic,Sedan,4,5,2022,56700
+764,Veyron 16.4,Bugatti,all wheel drive,automatic,Sedan,4,5,2022,43450
+765,STS-V,Cadillac,all wheel drive,automatic,Sedan,4,5,2022,44950
+766,XLR,Cadillac,rear wheel drive,automatic,Sedan,4,5,2022,54700
+767,XLR-V,Cadillac,rear wheel drive,automatic,Sedan,4,5,2022,42950
+768,Aspen,Chrysler,rear wheel drive,manual,Sedan,4,5,2022,70100
+769,Sprinter,Dodge,rear wheel drive,automatic,Sedan,4,5,2022,73000
+770,Sprinter Cargo,Dodge,all wheel drive,automatic,Sedan,4,5,2022,77100
+771,430 Scuderia,Ferrari,rear wheel drive,automatic,Convertible,2,4,2022,64200
+772,F430,Ferrari,all wheel drive,automatic,Convertible,2,4,2022,66200
+773,Econoline Cargo,Ford,all wheel drive,automatic,Coupe,2,4,2022,58700
+774,Econoline Wagon,Ford,rear wheel drive,automatic,Convertible,2,4,2022,53300
+775,Expedition EL,Ford,rear wheel drive,automatic,Coupe,2,4,2022,56700
+776,Taurus X,Ford,rear wheel drive,automatic,Coupe,2,4,2022,45800
+777,Envoy,GMC,all wheel drive,automatic,Convertible,2,4,2022,55300
+778,S2000,Honda,all wheel drive,automatic,Coupe,2,4,2022,47800
+779,H2,HUMMER,rear wheel drive,manual,Coupe,2,4,2022,72000
+780,H2 SUT,HUMMER,rear wheel drive,automatic,Coupe,2,4,2022,74900
+781,G,INFINITI,all wheel drive,automatic,Coupe,2,4,2022,79000
+782,Amanti,Kia,all wheel drive,automatic,Convertible,2,4,2022,86500
+783,Borrego,Kia,rear wheel drive,automatic,Sedan,4,5,2022,45200
+784,Rondo,Kia,all wheel drive,automatic,Sedan,4,5,2022,58200
+785,Spectra,Kia,rear wheel drive,automatic,Sedan,4,5,2022,54200
+786,LR3,Land Rover,all wheel drive,automatic,Sedan,4,5,2022,56500
+787,Navigator L,Lincoln,rear wheel drive,automatic,Sedan,4,5,2022,59950
+788,B-Series Truck,Mazda,all wheel drive,automatic,Sedan,4,5,2022,62250
+789,Tribute Hybrid,Mazda,rear wheel drive,automatic,Sedan,4,5,2022,55550
+790,CLK-Class,Mercedes-Benz,all wheel drive,automatic,Sedan,4,5,2022,57850
+791,SLR McLaren,Mercedes-Benz,all wheel drive,automatic,Sedan,4,5,2022,76800
+792,Sable,Mercury,all wheel drive,automatic,Sedan,4,5,2022,103700
+793,Raider,Mitsubishi,all wheel drive,automatic,Sedan,4,4,2022,142000
+794,350Z,Nissan,all wheel drive,automatic,Sedan,4,5,2022,157800
+795,G3,Pontiac,all wheel drive,automatic,Sedan,4,5,2022,103000
+796,G5,Pontiac,all wheel drive,automatic,Sedan,4,5,2022,95900
+797,G8,Pontiac,all wheel drive,automatic,Sedan,4,5,2022,89800
+798,Solstice,Pontiac,rear wheel drive,automatic,Sedan,4,5,2022,86800
+799,Torrent,Pontiac,all wheel drive,automatic,Convertible,2,4,2022,97300
+800,9-7X,Saab,all wheel drive,automatic,Convertible,2,4,2022,109400
+801,Aura,Saturn,all wheel drive,automatic,Coupe,2,4,2022,87900
+802,Aura Hybrid,Saturn,all wheel drive,automatic,Coupe,2,4,2022,99900
+803,Outlook,Saturn,rear wheel drive,automatic,Convertible,2,4,2022,94400
+804,Sky,Saturn,rear wheel drive,automatic,Coupe,2,4,2022,85000
+805,VUE,Saturn,all wheel drive,automatic,Coupe,2,4,2022,130000
+806,VUE Hybrid,Saturn,all wheel drive,automatic,Convertible,2,4,2022,139500
+807,C8,Spyker,rear wheel drive,automatic,Sedan,4,5,2022,85000
+808,XL7,Suzuki,all wheel drive,automatic,Sedan,4,5,2022,87900
+809,Rabbit,Volkswagen,all wheel drive,automatic,Sedan,4,5,2022,99900
+810,Rabbit GTI,Volkswagen,all wheel drive,automatic,Sedan,4,5,2022,130000
+811,RS 4,Audi,all wheel drive,automatic,Sedan,4,5,2022,143200
+812,Malibu Classic,Chevrolet,all wheel drive,automatic,Sedan,4,5,2022,139900
+813,Uplander,Chevrolet,all wheel drive,automatic,SUV,5,7,2022,141300
+814,Crossfire,Chrysler,rear wheel drive,automatic,Sedan,4,5,2022,55400
+815,Magnum,Dodge,all wheel drive,automatic,Sedan,4,5,2022,65900
+816,Entourage,Hyundai,all wheel drive,automatic,SUV,5,5,2022,83200
+817,Tiburon,Hyundai,front wheel drive,automatic,SUV,5,5,2022,35400
+818,Ascender,Isuzu,all wheel drive,automatic,SUV,5,5,2022,37400
+819,i-Series,Isuzu,all wheel drive,automatic,SUV,5,5,2022,38600
+820,S-Type,Jaguar,all wheel drive,automatic,SUV,5,5,2022,46450
+821,X-Type,Jaguar,front wheel drive,automatic,SUV,5,5,2022,36600
+822,Reventon,Lamborghini,rear wheel drive,automatic,SUV,5,5,2022,43700
+823,Mark LT,Lincoln,all wheel drive,automatic,SUV,5,5,2022,45700
+824,Grand Prix,Pontiac,all wheel drive,automatic,SUV,5,5,2022,57800
+825,Astra,Saturn,all wheel drive,automatic,SUV,5,5,2022,70100
+826,Forenza,Suzuki,all wheel drive,automatic,SUV,5,5,2022,51800
+827,Reno,Suzuki,all wheel drive,automatic,SUV,5,5,2022,62400
+828,Camry Solara,Toyota,all wheel drive,automatic,SUV,5,5,2022,73600
+829,Rainier,Buick,rear wheel drive,automatic,SUV,5,5,2022,60600
+830,Rendezvous,Buick,all wheel drive,automatic,SUV,5,5,2022,63700
+831,Terraza,Buick,all wheel drive,automatic,SUV,5,5,2022,62900
+832,Malibu Maxx,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,82800
+833,Monte Carlo,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,106100
+834,Silverado 1500 Classic,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,67350
+835,Silverado 1500HD Classic,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,86250
+836,Silverado 2500HD Classic,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,109600
+837,Silverado 3500 Classic,Chevrolet,all wheel drive,automatic,SUV,5,7,2022,74900
+838,Caravan,Dodge,all wheel drive,automatic,SUV,5,7,2022,99800
+839,Five Hundred,Ford,rear wheel drive,automatic,Convertible,2,2,2022,49900
+840,Freestar,Ford,rear wheel drive,automatic,Convertible,2,2,2022,63700
+841,Freestyle,Ford,front wheel drive,automatic,SUV,5,7,2022,42800
+842,Sierra 1500 Classic,GMC,all wheel drive,automatic,SUV,5,7,2022,57100
+843,Sierra 1500HD Classic,GMC,all wheel drive,automatic,SUV,5,7,2022,51800
+844,Sierra 2500HD Classic,GMC,all wheel drive,automatic,SUV,5,7,2022,44800
+845,Sierra 3500 Classic,GMC,front wheel drive,automatic,SUV,5,7,2022,49800
+846,Mazdaspeed 6,Mazda,front wheel drive,automatic,SUV,5,7,2022,55100
+847,Montego,Mercury,front wheel drive,automatic,SUV,5,5,2022,24600
+848,Monterey,Mercury,all wheel drive,automatic,SUV,5,5,2022,25220
+849,ION,Saturn,all wheel drive,automatic,SUV,5,5,2022,30600
+850,Relay,Saturn,front wheel drive,automatic,SUV,5,5,2022,29000
+851,B9 Tribeca,Subaru,front wheel drive,automatic,SUV,5,5,2022,25800
+852,Aerio,Suzuki,front wheel drive,automatic,SUV,5,5,2022,24200
+853,RSX,Acura,all wheel drive,automatic,SUV,5,5,2022,26200
+854,V12 Vanquish,Aston Martin,all wheel drive,automatic,SUV,5,5,2022,27800
+855,Silverado 1500HD,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,42200
+856,Silverado 3500,Chevrolet,front wheel drive,automatic,SUV,5,5,2022,40400
+857,SSR,Chevrolet,front wheel drive,automatic,SUV,5,5,2022,31800
+858,TrailBlazer EXT,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,33600
+859,Stratus,Dodge,all wheel drive,automatic,SUV,5,5,2022,37800
+860,Envoy XL,GMC,front wheel drive,automatic,SUV,5,5,2022,36000
+861,Sierra 1500HD,GMC,rear wheel drive,automatic,Sedan,4,5,2022,45895
+862,Sierra 3500,GMC,rear wheel drive,automatic,Sedan,4,5,2022,33695
+863,H1 Alpha,HUMMER,rear wheel drive,automatic,Sedan,4,5,2022,39795
+864,Q,INFINITI,rear wheel drive,automatic,Sedan,4,5,2022,38595
+865,LS,Lincoln,rear wheel drive,manual,Sedan,4,5,2022,58995
+866,Zephyr,Lincoln,rear wheel drive,automatic,Sedan,4,5,2022,37295
+868,GranSport,Maserati,rear wheel drive,automatic,Sedan,4,5,2022,41795
+869,MPV,Mazda,rear wheel drive,automatic,Sedan,4,5,2022,50095
+870,Montero,Mitsubishi,rear wheel drive,manual,Sedan,4,5,2022,83995
+871,Esperante,Panoz,rear wheel drive,automatic,SUV,5,7,2022,76295
+872,GTO,Pontiac,four wheel drive,automatic,SUV,5,7,2022,90595
+873,Montana SV6,Pontiac,rear wheel drive,automatic,SUV,5,7,2022,101595
+874,9-2X,Saab,four wheel drive,automatic,SUV,5,7,2022,87895
+875,xA,Scion,four wheel drive,automatic,SUV,5,7,2022,79295
+876,Baja,Subaru,rear wheel drive,automatic,SUV,5,7,2022,87595
+877,Verona,Suzuki,four wheel drive,automatic,SUV,5,7,2022,104595
+878,XL-7,Suzuki,rear wheel drive,automatic,SUV,5,7,2022,101595
+879,Phaeton,Volkswagen,rear wheel drive,automatic,SUV,5,7,2022,84895
+880,allroad quattro,Audi,four wheel drive,automatic,SUV,5,7,2022,104595
+881,Century,Buick,rear wheel drive,automatic,SUV,5,7,2022,87895
+882,LeSabre,Buick,rear wheel drive,automatic,SUV,5,7,2022,104595
+883,Park Avenue,Buick,rear wheel drive,automatic,SUV,5,7,2022,79295
+884,DeVille,Cadillac,four wheel drive,automatic,SUV,5,7,2022,93595
+885,Astro,Chevrolet,rear wheel drive,automatic,SUV,5,7,2022,90595
+886,Astro Cargo,Chevrolet,four wheel drive,automatic,SUV,5,7,2022,107595
+887,Cavalier,Chevrolet,rear wheel drive,automatic,SUV,5,7,2022,104595
+888,Classic,Chevrolet,four wheel drive,automatic,SUV,5,7,2022,107595
+889,Venture,Chevrolet,four wheel drive,automatic,SUV,5,7,2022,90895
+890,Neon,Dodge,four wheel drive,automatic,SUV,5,7,2022,82295
+891,Superamerica,Ferrari,all wheel drive,automatic,SUV,5,5,2022,42295
+892,Excursion,Ford,all wheel drive,automatic,SUV,5,5,2022,38295
+893,Thunderbird,Ford,front wheel drive,automatic,SUV,5,5,2022,35795
+894,Envoy XUV,GMC,front wheel drive,automatic,SUV,5,5,2022,39795
+895,Safari,GMC,all wheel drive,automatic,SUV,5,5,2022,42395
+896,Safari Cargo,GMC,front wheel drive,automatic,SUV,5,5,2022,39895
+897,XG350,Hyundai,all wheel drive,automatic,SUV,5,5,2022,50795
+898,Freelander,Land Rover,all wheel drive,automatic,SUV,5,5,2022,55895
+899,Spyder,Maserati,all wheel drive,automatic,SUV,5,5,2022,45995
+900,Mazdaspeed MX-5 Miata,Mazda,front wheel drive,automatic,SUV,5,5,2022,43995
+901,Aztek,Pontiac,front wheel drive,automatic,SUV,5,5,2022,48795
+902,Bonneville,Pontiac,all wheel drive,automatic,SUV,5,7,2022,54995
+903,Grand Am,Pontiac,front wheel drive,automatic,SUV,5,7,2022,52995
+904,Montana,Pontiac,all wheel drive,automatic,SUV,5,7,2022,50595
+905,Sunfire,Pontiac,front wheel drive,automatic,SUV,5,7,2022,48595
+906,Carrera GT,Porsche,all wheel drive,automatic,SUV,5,7,2022,58295
+907,L-Series,Saturn,all wheel drive,automatic,SUV,5,5,2022,44000
+908,Celica,Toyota,front wheel drive,automatic,SUV,5,5,2022,41100
+909,ECHO,Toyota,all wheel drive,automatic,SUV,5,5,2022,40300
+910,MR2 Spyder,Toyota,front wheel drive,automatic,SUV,5,5,2022,41100
+911,Seville,Cadillac,front wheel drive,automatic,SUV,5,5,2022,37600
+912,S-10,Chevrolet,front wheel drive,automatic,SUV,5,5,2022,33400
+913,Silverado 2500,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,36100
+914,Tracker,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,44000
+915,300M,Chrysler,front wheel drive,automatic,Hatchback,5,5,2022,33000
+916,Concorde,Chrysler,front wheel drive,automatic,Hatchback,5,5,2022,37500
+917,Intrepid,Dodge,front wheel drive,automatic,Hatchback,5,5,2022,31000
+918,360,Ferrari,front wheel drive,automatic,Hatchback,5,5,2022,34200
+919,575M,Ferrari,rear wheel drive,manual,Coupe,2,4,2022,25000
+920,F-150 Heritage,Ford,rear wheel drive,manual,Coupe,2,4,2022,27500
+921,Sierra 2500,GMC,rear wheel drive,manual,Coupe,2,4,2022,37500
+922,Sonoma,GMC,rear wheel drive,manual,Convertible,2,4,2022,40000
+923,H1,HUMMER,rear wheel drive,manual,Convertible,2,4,2022,69000
+924,I,INFINITI,rear wheel drive,manual,Coupe,2,4,2022,63000
+925,Axiom,Isuzu,rear wheel drive,manual,Coupe,2,4,2022,25500
+926,Rodeo,Isuzu,rear wheel drive,manual,Convertible,2,4,2022,31500
+927,Esprit,Lotus,rear wheel drive,manual,Coupe,2,4,2022,34000
+928,Marauder,Mercury,rear wheel drive,manual,Convertible,2,4,2022,33500
+929,Diamante,Mitsubishi,rear wheel drive,manual,Coupe,2,4,2022,42500
+930,Montero Sport,Mitsubishi,rear wheel drive,manual,Convertible,2,4,2022,48500
+931,Alero,Oldsmobile,rear wheel drive,manual,Convertible,2,4,2022,37500
+932,Bravada,Oldsmobile,rear wheel drive,manual,Convertible,2,4,2022,43500
+933,Silhouette,Oldsmobile,rear wheel drive,manual,Coupe,2,4,2022,31500
+934,Vitara,Suzuki,rear wheel drive,automatic,Truck (Crew Cab),4,5,2022,27100
+935,Golf R32,Volkswagen,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,44200
+936,V40,Volvo,four wheel drive,automatic,Truck (Extended Cab),4,4,2022,42600
+937,CL,Acura,rear wheel drive,automatic,Truck (Crew Cab),4,5,2022,34800
+938,DB7,Aston Martin,four wheel drive,automatic,Truck (Extended Cab),4,4,2022,36500
+939,Alpina,BMW,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,38000
+940,Z8,BMW,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,38600
+941,Ram Cargo,Dodge,rear wheel drive,automatic,Truck (Crew Cab),4,5,2022,29400
+942,456M,Ferrari,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,33000
+943,Enzo,Ferrari,rear wheel drive,automatic,Truck (Extended Cab),4,4,2022,25200
+944,Escort,Ford,rear wheel drive,automatic,Truck (Crew Cab),4,5,2022,31900
+945,Explorer Sport,Ford,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,34400
+946,Windstar,Ford,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,32100
+947,Windstar Cargo,Ford,four wheel drive,automatic,Truck (Extended Cab),4,4,2022,29100
+948,QX4,INFINITI,four wheel drive,automatic,Truck (Extended Cab),4,4,2022,31400
+949,Rodeo Sport,Isuzu,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,35300
+950,Mazdaspeed Protege,Mazda,rear wheel drive,automatic,Truck (Extended Cab),4,4,2022,27700
+951,Protege,Mazda,rear wheel drive,automatic,Truck (Crew Cab),4,5,2022,29700
+952,Protege5,Mazda,rear wheel drive,automatic,Convertible,2,2,2022,68400
+953,Truck,Mazda,rear wheel drive,automatic,Coupe,2,2,2022,72850
+954,Aurora,Oldsmobile,rear wheel drive,automatic,Coupe,2,2,2022,68200
+955,EuroVan,Volkswagen,rear wheel drive,automatic,Convertible,2,2,2022,75200
+956,Z3,BMW,rear wheel drive,automatic,Coupe,2,2,2022,60900
+957,Eldorado,Cadillac,rear wheel drive,automatic,Convertible,2,2,2022,79850
+958,Prizm,Chevrolet,all wheel drive,automatic,SUV,5,5,2022,32600
+959,Prowler,Chrysler,all wheel drive,automatic,SUV,5,5,2022,28500
+960,Lanos,Daewoo,front wheel drive,automatic,SUV,5,5,2022,31000
+961,Leganza,Daewoo,front wheel drive,automatic,SUV,5,5,2022,26900
+962,Nubira,Daewoo,front wheel drive,automatic,SUV,5,5,2022,25800
+963,Ram Wagon,Dodge,all wheel drive,automatic,SUV,5,5,2022,27400
+964,Trooper,Isuzu,all wheel drive,automatic,SUV,5,5,2022,31700
+965,Blackwood,Lincoln,front wheel drive,automatic,SUV,5,5,2022,30100
+966,626,Mazda,front wheel drive,automatic,SUV,5,5,2022,27300
+967,Millenia,Mazda,all wheel drive,automatic,SUV,5,5,2022,28900
+968,Cougar,Mercury,all wheel drive,automatic,SUV,5,5,2022,27600
+969,Villager,Mercury,front wheel drive,automatic,SUV,5,5,2022,26000
+970,Intrigue,Oldsmobile,rear wheel drive,automatic,Van,4,12,2022,37200
+971,Firebird,Pontiac,rear wheel drive,automatic,Van,4,12,2022,38400
+972,Corniche,Rolls-Royce,rear wheel drive,automatic,Van,4,12,2022,39300
+973,Park Ward,Rolls-Royce,rear wheel drive,automatic,Ext Van,4,12,2022,40900
+974,Silver Seraph,Rolls-Royce,rear wheel drive,automatic,Van,4,12,2022,40100
+975,S-Series,Saturn,rear wheel drive,automatic,Ext Van,4,12,2022,39200
+976,Esteem,Suzuki,rear wheel drive,automatic,Ext Van,4,2,2022,36900
+977,Cabrio,Volkswagen,rear wheel drive,automatic,Ext Van,4,2,2022,34900
+978,XC,Volvo,rear wheel drive,automatic,Van,4,2,2022,36100
+979,Catera,Cadillac,rear wheel drive,automatic,Van,4,2,2022,33000
+980,Lumina,Chevrolet,front wheel drive,automatic,Sedan,4,5,2022,33500
+981,Metro,Chevrolet,front wheel drive,automatic,Sedan,4,5,2022,26800
+982,LHS,Chrysler,front wheel drive,automatic,Sedan,4,5,2022,24400
+983,550,Ferrari,front wheel drive,automatic,Sedan,4,5,2022,23400
+984,Jimmy,GMC,front wheel drive,automatic,Sedan,4,5,2022,23400
+985,Sierra C3,GMC,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,58200
+986,Prelude,Honda,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,53500
+987,XG300,Hyundai,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,52800
+988,VehiCROSS,Isuzu,rear wheel drive,automatic,Truck (Crew Cab),4,6,2022,43700
+989,Sephia,Kia,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,53800
+990,Diablo,Lamborghini,rear wheel drive,automatic,Truck (Crew Cab),4,5,2022,50200
+991,B-Series Pickup,Mazda,four wheel drive,automatic,Truck (Crew Cab),4,5,2022,52500
+994,Swift,Suzuki,rear wheel drive,automatic,Truck (Crew Cab),4,5,2022,54700
+995,Hummer,AM General,four wheel drive,automatic,Truck (Crew Cab),4,6,2022,47000
+996,C/K 2500 Series,Chevrolet,rear wheel drive,automatic,Truck (Double Cab),4,6,2022,41300
+997,C/K 3500 Series,Chevrolet,four wheel drive,automatic,Truck (Crew Cab),4,6,2022,47300
+998,Cirrus,Chrysler,rear wheel drive,automatic,Truck (Double Cab),4,6,2022,34300
+999,Grand Voyager,Chrysler,rear wheel drive,automatic,Truck (Crew Cab),4,6,2022,44000
+1000,Ram Van,Dodge,four wheel drive,automatic,Truck (Crew Cab),4,6,2022,40000
